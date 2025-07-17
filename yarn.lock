@@ -943,10 +943,10 @@
     "@nomicfoundation/edr-linux-x64-musl" "0.11.1"
     "@nomicfoundation/edr-win32-x64-msvc" "0.11.1"
 
-"@nomicfoundation/hardhat-toolbox@6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@nomicfoundation/hardhat-toolbox/-/hardhat-toolbox-6.0.0.tgz#92d3d2363dca29cf21a6b99f2aad2679468ecdca"
-  integrity sha512-3qm3VuDp5xD8UyfhYPPfZHnCc0M/V5yfRSTSDdOuI8DTrmYJkMNW7QrTNGalMCigWn3suBghSw9YcMOyGDJ7Lg==
+"@nomicfoundation/hardhat-toolbox@6.1.0":
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/@nomicfoundation/hardhat-toolbox/-/hardhat-toolbox-6.1.0.tgz#946b95983c308610c649513ec4e73736fe1318d8"
+  integrity sha512-iAIl6pIK3F4R3JXeq+b6tiShXUrp1sQRiPfqoCMUE7QLUzoFifzGV97IDRL6e73pWsMKpUQBsHBvTCsqn+ZdpA==
 
 "@nomicfoundation/slang@^0.18.3":
   version "0.18.3"
