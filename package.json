@@ -35,7 +35,7 @@
 		"hardhat": "2.26.2",
 		"solhint": "6.0.0",
 		"typescript": "5.9.2",
-		"eslint": "8.57.1",
+		"eslint": "9.33.0",
 		"eslint-config-prettier": "10.1.8",
 		"eslint-config-xo": "0.45.0",
 		"eslint-config-xo-typescript": "4.0.0",
