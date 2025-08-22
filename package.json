@@ -33,7 +33,7 @@
 		"dotenv": "17.2.1",
 		"ethers": "6.15.0",
 		"hardhat": "3.0.1",
-		"solhint": "6.0.0",
+		"solhint": "6.0.1",
 		"typescript": "5.9.2",
 		"eslint": "8.57.1",
 		"eslint-config-prettier": "10.1.8",
