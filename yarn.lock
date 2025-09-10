@@ -1050,12 +1050,12 @@
     "@nomicfoundation/edr-linux-x64-musl" "0.12.0-next.5"
     "@nomicfoundation/edr-win32-x64-msvc" "0.12.0-next.5"
 
-"@nomicfoundation/hardhat-errors@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@nomicfoundation/hardhat-errors/-/hardhat-errors-3.0.0.tgz#7825819aefbaaec9daa9bc61412c54e1f019334a"
-  integrity sha512-nYV5Z4Z5+xzL08GonNokPA3WbLngUB4H3XBmR9dnoLqM5ls90LmIuJdZy2dzxI0LbeG2pDT2r8wAJIBAStq1iA==
+"@nomicfoundation/hardhat-errors@^3.0.2":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@nomicfoundation/hardhat-errors/-/hardhat-errors-3.0.2.tgz#2543539dbf8ab726172f808e57486e3c967153b6"
+  integrity sha512-8n4HZ0lfAFSw3SU1mrDXWslh11jH4W5MRyG9yT4d/vzx37uA3JBIzVQlnGVvE2ejl1QzqOqOxDuQqANWEzI9/w==
   dependencies:
-    "@nomicfoundation/hardhat-utils" "^3.0.0"
+    "@nomicfoundation/hardhat-utils" "^3.0.1"
 
 "@nomicfoundation/hardhat-toolbox@6.1.0":
   version "6.1.0"
@@ -1066,6 +1066,20 @@
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/@nomicfoundation/hardhat-utils/-/hardhat-utils-3.0.0.tgz#e77033f0d68b9aacfb8e530617235cbe8093c2af"
   integrity sha512-dpzumbxM69ny/BSVd/8jquZO3wjg61e+S81DJPJwQ7naeZNai1r9gYuxT65VgKKTYZG/xKwrP36tJvB+gRtBrg==
+  dependencies:
+    "@streamparser/json-node" "^0.0.22"
+    debug "^4.3.2"
+    env-paths "^2.2.0"
+    ethereum-cryptography "^2.2.1"
+    fast-equals "^5.0.1"
+    json-stream-stringify "^3.1.6"
+    rfdc "^1.3.1"
+    undici "^6.16.1"
+
+"@nomicfoundation/hardhat-utils@^3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@nomicfoundation/hardhat-utils/-/hardhat-utils-3.0.1.tgz#d3fd6d6324d06db6733136580a917e416c593411"
+  integrity sha512-Jr1YhSxkv/L9+NZ4NyAboaOP/g9H5Xyjf56yUrBUtwPxQ3B8kz9WyFmgrohOpP+/4lfelFIs0Fw47jBXhbaQFg==
   dependencies:
     "@streamparser/json-node" "^0.0.22"
     debug "^4.3.2"
@@ -3048,14 +3062,14 @@ graphemer@^1.4.0:
   resolved "https://registry.yarnpkg.com/graphemer/-/graphemer-1.4.0.tgz#fb2f1d55e0e3a1849aeffc90c4fa0dd53a0e66c6"
   integrity sha512-EtKwoO6kxCL9WO5xipiHTZlSzBm7WLT627TqC/uVRd0HKmq8NXyebnNYxDoBi7wt8eTWrUrKXCOVaFq9x1kgag==
 
-hardhat@3.0.4:
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/hardhat/-/hardhat-3.0.4.tgz#3a405dc4701cf19e0bebf785f788d5ddd23edf18"
-  integrity sha512-6BoteHrD8nq5/yCUJGfYmspTulkjQZgRJOBPwXNZLz3fJV8B2wYLnDSbkKpyI97yhAmfzuc2qp6yBHPK5Msl4A==
+hardhat@3.0.5:
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/hardhat/-/hardhat-3.0.5.tgz#c9e8cc9d49222760e476eae5d06941210de9c780"
+  integrity sha512-yNL8PAja0Py+5gC7EJq38HVn/z/FZF7IG0GKeQA2+Djuhm4FtVpi8bWioAe4vQS37yntf9Rri2LIUu1839KHpw==
   dependencies:
     "@nomicfoundation/edr" "0.12.0-next.5"
-    "@nomicfoundation/hardhat-errors" "^3.0.0"
-    "@nomicfoundation/hardhat-utils" "^3.0.0"
+    "@nomicfoundation/hardhat-errors" "^3.0.2"
+    "@nomicfoundation/hardhat-utils" "^3.0.1"
     "@nomicfoundation/hardhat-zod-utils" "^3.0.0"
     "@nomicfoundation/solidity-analyzer" "^0.1.1"
     "@sentry/core" "^9.4.0"
