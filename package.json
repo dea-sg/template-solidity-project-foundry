@@ -34,7 +34,7 @@
 		"ethers": "6.15.0",
 		"hardhat": "3.0.6",
 		"solhint": "6.0.1",
-		"typescript": "5.9.2",
+		"typescript": "5.9.3",
 		"eslint": "8.57.1",
 		"eslint-config-prettier": "10.1.8",
 		"eslint-config-xo": "0.45.0",
