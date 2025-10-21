@@ -1050,10 +1050,17 @@
     "@nomicfoundation/edr-linux-x64-musl" "0.12.0-next.7"
     "@nomicfoundation/edr-win32-x64-msvc" "0.12.0-next.7"
 
-"@nomicfoundation/hardhat-errors@^3.0.0", "@nomicfoundation/hardhat-errors@^3.0.2":
+"@nomicfoundation/hardhat-errors@^3.0.0":
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/@nomicfoundation/hardhat-errors/-/hardhat-errors-3.0.2.tgz#2543539dbf8ab726172f808e57486e3c967153b6"
   integrity sha512-8n4HZ0lfAFSw3SU1mrDXWslh11jH4W5MRyG9yT4d/vzx37uA3JBIzVQlnGVvE2ejl1QzqOqOxDuQqANWEzI9/w==
+  dependencies:
+    "@nomicfoundation/hardhat-utils" "^3.0.1"
+
+"@nomicfoundation/hardhat-errors@^3.0.3":
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/@nomicfoundation/hardhat-errors/-/hardhat-errors-3.0.3.tgz#8a03243de5c89e15865e6392d4eb158cf4945179"
+  integrity sha512-qvVIyNE5yXFdwCD7G74fb3j+p5PjYSej/K2mhOuJBhxdGwzARpyoJbcDZrjkNyabytlt95iniZLHHWM9jvVXEA==
   dependencies:
     "@nomicfoundation/hardhat-utils" "^3.0.1"
 
@@ -3086,13 +3093,13 @@ graphemer@^1.4.0:
   resolved "https://registry.yarnpkg.com/graphemer/-/graphemer-1.4.0.tgz#fb2f1d55e0e3a1849aeffc90c4fa0dd53a0e66c6"
   integrity sha512-EtKwoO6kxCL9WO5xipiHTZlSzBm7WLT627TqC/uVRd0HKmq8NXyebnNYxDoBi7wt8eTWrUrKXCOVaFq9x1kgag==
 
-hardhat@3.0.7:
-  version "3.0.7"
-  resolved "https://registry.yarnpkg.com/hardhat/-/hardhat-3.0.7.tgz#b3031c365ac9330021f36ad82381f89942eec644"
-  integrity sha512-P+FOM6JfZ3eAN3yDzkivKz2mObuQA2RUKtgm+/H90XWqJTpk2lxZ8u2AsHOj/ffAxJh308N228FC09vAkaZR+g==
+hardhat@3.0.8:
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/hardhat/-/hardhat-3.0.8.tgz#ccdb9a9accb6491ce864a692e72a840c674220c6"
+  integrity sha512-OebUJWdqnYtcDtmuhMc8bnuTrMOMxVyPkl1kUX0YgwiMui37fzSv2qjmbVgE9LCuIyuGxBKkor6CQmvOheSygA==
   dependencies:
     "@nomicfoundation/edr" "0.12.0-next.7"
-    "@nomicfoundation/hardhat-errors" "^3.0.2"
+    "@nomicfoundation/hardhat-errors" "^3.0.3"
     "@nomicfoundation/hardhat-utils" "^3.0.3"
     "@nomicfoundation/hardhat-zod-utils" "^3.0.1"
     "@nomicfoundation/solidity-analyzer" "^0.1.1"
