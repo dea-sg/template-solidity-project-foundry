@@ -3093,10 +3093,10 @@ graphemer@^1.4.0:
   resolved "https://registry.yarnpkg.com/graphemer/-/graphemer-1.4.0.tgz#fb2f1d55e0e3a1849aeffc90c4fa0dd53a0e66c6"
   integrity sha512-EtKwoO6kxCL9WO5xipiHTZlSzBm7WLT627TqC/uVRd0HKmq8NXyebnNYxDoBi7wt8eTWrUrKXCOVaFq9x1kgag==
 
-hardhat@3.0.8:
-  version "3.0.8"
-  resolved "https://registry.yarnpkg.com/hardhat/-/hardhat-3.0.8.tgz#ccdb9a9accb6491ce864a692e72a840c674220c6"
-  integrity sha512-OebUJWdqnYtcDtmuhMc8bnuTrMOMxVyPkl1kUX0YgwiMui37fzSv2qjmbVgE9LCuIyuGxBKkor6CQmvOheSygA==
+hardhat@3.0.9:
+  version "3.0.9"
+  resolved "https://registry.yarnpkg.com/hardhat/-/hardhat-3.0.9.tgz#e24ce01586935d93723cfccd8139ffe1a9a92754"
+  integrity sha512-X/sa9IcpRkJ1PqhetojaEf6uCHKyauWFxGxiKX1S3mor+3j/aJwaljKXqhOwWvUYOcgVFTyA6+9b3YGcvyyXRA==
   dependencies:
     "@nomicfoundation/edr" "0.12.0-next.7"
     "@nomicfoundation/hardhat-errors" "^3.0.3"
