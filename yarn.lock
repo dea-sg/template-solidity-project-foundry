@@ -1097,10 +1097,10 @@
     rfdc "^1.3.1"
     undici "^6.16.1"
 
-"@nomicfoundation/hardhat-utils@^3.0.4":
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/@nomicfoundation/hardhat-utils/-/hardhat-utils-3.0.4.tgz#72836fa2993bdb720b9574b54983a8a1562d9ee3"
-  integrity sha512-ZExEZ0ym/oIJoXg1HmrOgIKg0hnkS16bDa5UeRbMCH/cVwcatDYKAmwQwLBhoB2JK8nPjDlYmHxYvjL65QQ1Xw==
+"@nomicfoundation/hardhat-utils@^3.0.5":
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/@nomicfoundation/hardhat-utils/-/hardhat-utils-3.0.5.tgz#b04fbde1d0914939b3c4b982486cb3dcb117a6f6"
+  integrity sha512-5zkQSuSxkwK7fQxKswJ1GGc/3AuWBSmxA7GhczTPLx28dAXQnubRU8nA48SkCkKesJq5x4TROP+XheSE2VkLUA==
   dependencies:
     "@streamparser/json-node" "^0.0.22"
     debug "^4.3.2"
@@ -3093,14 +3093,14 @@ graphemer@^1.4.0:
   resolved "https://registry.yarnpkg.com/graphemer/-/graphemer-1.4.0.tgz#fb2f1d55e0e3a1849aeffc90c4fa0dd53a0e66c6"
   integrity sha512-EtKwoO6kxCL9WO5xipiHTZlSzBm7WLT627TqC/uVRd0HKmq8NXyebnNYxDoBi7wt8eTWrUrKXCOVaFq9x1kgag==
 
-hardhat@3.0.10:
-  version "3.0.10"
-  resolved "https://registry.yarnpkg.com/hardhat/-/hardhat-3.0.10.tgz#676ba0be6797db6ec2f46fc92b729d9f8521e470"
-  integrity sha512-y9vZfK7NqdJQaIyBL7tZHh57rHzdm6vymJK2XatFY49fWi55QC8dn7C6R3JkpYH6eJ/lOolC06UBy/mhzNyO+g==
+hardhat@3.0.11:
+  version "3.0.11"
+  resolved "https://registry.yarnpkg.com/hardhat/-/hardhat-3.0.11.tgz#86e0e5ce8924e34cfe39d85d7651e4041e2581d6"
+  integrity sha512-XvUKHNWxyDUFLZFvO7eoza7MkCDCox6ONJNxgCLyxd4fJ7UWKPj+wVmDvpMWuwQFBA64/Mi49mgz2hPwoss9PA==
   dependencies:
     "@nomicfoundation/edr" "0.12.0-next.10"
     "@nomicfoundation/hardhat-errors" "^3.0.3"
-    "@nomicfoundation/hardhat-utils" "^3.0.4"
+    "@nomicfoundation/hardhat-utils" "^3.0.5"
     "@nomicfoundation/hardhat-zod-utils" "^3.0.1"
     "@nomicfoundation/solidity-analyzer" "^0.1.1"
     "@sentry/core" "^9.4.0"
