@@ -1002,53 +1002,53 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@nomicfoundation/edr-darwin-arm64@0.12.0-next.19":
-  version "0.12.0-next.19"
-  resolved "https://registry.yarnpkg.com/@nomicfoundation/edr-darwin-arm64/-/edr-darwin-arm64-0.12.0-next.19.tgz#1b1ff85cb35fd48c71208c9fa2177553e57e8fe6"
-  integrity sha512-YdgdNd/T/7pRcRbHkZI+wd1xqvQ4o6qABr4Mx9JpbORn22VEs6eH/oDMS24uxAwIU7FhF1R73fvAHJNpJLUuqw==
+"@nomicfoundation/edr-darwin-arm64@0.12.0-next.21":
+  version "0.12.0-next.21"
+  resolved "https://registry.yarnpkg.com/@nomicfoundation/edr-darwin-arm64/-/edr-darwin-arm64-0.12.0-next.21.tgz#76518e13d043a1105a3a42cffdc3e4f3756b94e4"
+  integrity sha512-WUBBIlhW9UcYhEKlpuG+A/9gQsTciWID+shi2p5iYzArIZAHssyuUGOZF+z5/KQTyAC+GRQd/2YvCQacNnpOIg==
 
-"@nomicfoundation/edr-darwin-x64@0.12.0-next.19":
-  version "0.12.0-next.19"
-  resolved "https://registry.yarnpkg.com/@nomicfoundation/edr-darwin-x64/-/edr-darwin-x64-0.12.0-next.19.tgz#341a5822240ba2fedb411ffa6fb4a5ed96af1f88"
-  integrity sha512-kA9fXQ0/kmykd95Opl8Zu47zn0tBotOhD3fjQAYmCSzLvt8Si+I2i5eoo2RSnAmSMHet9udQYKMuewJCN6xdkA==
+"@nomicfoundation/edr-darwin-x64@0.12.0-next.21":
+  version "0.12.0-next.21"
+  resolved "https://registry.yarnpkg.com/@nomicfoundation/edr-darwin-x64/-/edr-darwin-x64-0.12.0-next.21.tgz#8e60bf7a53237579ff39f71f3854684cea124478"
+  integrity sha512-DOLp9TS3pRxX5OVqH2SMv/hLmo2XZcciO+PLaoXcJGMTmUqDJbc1kOS7+e/kvf+f12e2Y4b/wPQGXKGRgcx61w==
 
-"@nomicfoundation/edr-linux-arm64-gnu@0.12.0-next.19":
-  version "0.12.0-next.19"
-  resolved "https://registry.yarnpkg.com/@nomicfoundation/edr-linux-arm64-gnu/-/edr-linux-arm64-gnu-0.12.0-next.19.tgz#92ab580591cc85a6e18eec0d1b76855386d15ddd"
-  integrity sha512-fRe6tyx8fIRZTbIairIz9RniJ++D/W3XC+oi7EialaoTV7AK22rwmqXz5nsc/0sH0YlESUZXtdp7RSrdLIGmnw==
+"@nomicfoundation/edr-linux-arm64-gnu@0.12.0-next.21":
+  version "0.12.0-next.21"
+  resolved "https://registry.yarnpkg.com/@nomicfoundation/edr-linux-arm64-gnu/-/edr-linux-arm64-gnu-0.12.0-next.21.tgz#d9da6e64f82a306d88259b468c38c14492d6dac7"
+  integrity sha512-yYLkOFA9Y51TdHrZIFM6rLzArw/iEQuIGwNnTRUXVBO1bNyKVxfaO7qg4WuRSNWKuZAtMawilcjoyHNuxzm/oQ==
 
-"@nomicfoundation/edr-linux-arm64-musl@0.12.0-next.19":
-  version "0.12.0-next.19"
-  resolved "https://registry.yarnpkg.com/@nomicfoundation/edr-linux-arm64-musl/-/edr-linux-arm64-musl-0.12.0-next.19.tgz#bf3b02e5a103c787ba7b8124cb797d735e63eac6"
-  integrity sha512-KFTwVlv5UhDGCZiGsWLTLxLbE3fdySfKYD1guM7FPoZgfUTCSQmf+hj+C6xDPjbYZSbMXKvLgzFqASVpPi9zXg==
+"@nomicfoundation/edr-linux-arm64-musl@0.12.0-next.21":
+  version "0.12.0-next.21"
+  resolved "https://registry.yarnpkg.com/@nomicfoundation/edr-linux-arm64-musl/-/edr-linux-arm64-musl-0.12.0-next.21.tgz#8962157c3493149e95a97c31c197bd312b5fdfea"
+  integrity sha512-/L2hJYoUSHG9RTZRfOfYfsEBo1I30EQt3M+kWTDCS09jITnotWbqS9H/qbjd8u+8/xBBtAxNFhBgrIYu0GESSw==
 
-"@nomicfoundation/edr-linux-x64-gnu@0.12.0-next.19":
-  version "0.12.0-next.19"
-  resolved "https://registry.yarnpkg.com/@nomicfoundation/edr-linux-x64-gnu/-/edr-linux-x64-gnu-0.12.0-next.19.tgz#a23976d44f74039c9dd792fe3054eccfd47e1242"
-  integrity sha512-FBoIBgJ8oylmNcjnrf7QZ5lLt9e3z0Vg33L9rVw8f9VYTPu6wtBmRpcemysO1fCjaRaNlBjbHL93+H6OSjLfRA==
+"@nomicfoundation/edr-linux-x64-gnu@0.12.0-next.21":
+  version "0.12.0-next.21"
+  resolved "https://registry.yarnpkg.com/@nomicfoundation/edr-linux-x64-gnu/-/edr-linux-x64-gnu-0.12.0-next.21.tgz#5ff232e75fe4742760bffba43620c7b45828604d"
+  integrity sha512-m5mjLjGbmiRwnv2UX48olr6NxTewt73i3f6pgqpTcQKgHxGWVvEHqDbhdhP2H8Qf31cyya/Qv9p6XQziPfjMYg==
 
-"@nomicfoundation/edr-linux-x64-musl@0.12.0-next.19":
-  version "0.12.0-next.19"
-  resolved "https://registry.yarnpkg.com/@nomicfoundation/edr-linux-x64-musl/-/edr-linux-x64-musl-0.12.0-next.19.tgz#edcd72f4a4485afa81ea633f514657a93d5d4bf6"
-  integrity sha512-CkluX/arVZ+khkhGZSECJvJbmEUu8mjJ55BuzZUOH4H+ERlCh+oKqHEgDFD80IPX3CIWp5ge6hpDDAGDmxw1bw==
+"@nomicfoundation/edr-linux-x64-musl@0.12.0-next.21":
+  version "0.12.0-next.21"
+  resolved "https://registry.yarnpkg.com/@nomicfoundation/edr-linux-x64-musl/-/edr-linux-x64-musl-0.12.0-next.21.tgz#b5540187950e08346777424f31c667d86cedcd8c"
+  integrity sha512-FRGJwIPBC0UAtoWHd97bQ3OQwngp3vA4EjwZQqiicCapKoiI9BPt4+eyiZq2eq/K0+I0rHs25hw+dzU0QZL1xg==
 
-"@nomicfoundation/edr-win32-x64-msvc@0.12.0-next.19":
-  version "0.12.0-next.19"
-  resolved "https://registry.yarnpkg.com/@nomicfoundation/edr-win32-x64-msvc/-/edr-win32-x64-msvc-0.12.0-next.19.tgz#d356752cd06b79fd17aba59c0cba85d7e96d894d"
-  integrity sha512-skzli0DMDXpZSyjSt3Up9r6B8IvkzoNimhiIS68D2RHEQ1oWpvUlwWzdcTwMDWzjDHN7S/4wEKizjc/UhnmQpg==
+"@nomicfoundation/edr-win32-x64-msvc@0.12.0-next.21":
+  version "0.12.0-next.21"
+  resolved "https://registry.yarnpkg.com/@nomicfoundation/edr-win32-x64-msvc/-/edr-win32-x64-msvc-0.12.0-next.21.tgz#62bcd029e919934ff7bf3dab5d9419f19b9b6c01"
+  integrity sha512-rpH/iKqn0Dvbnj+o5tv3CtDNAsA9AnBNHNmEHoJPNnB5rhR7Zw1vVg2MaE1vzCvIONQGKGkArqC+dA7ftsOcpA==
 
-"@nomicfoundation/edr@0.12.0-next.19":
-  version "0.12.0-next.19"
-  resolved "https://registry.yarnpkg.com/@nomicfoundation/edr/-/edr-0.12.0-next.19.tgz#4981daf2076213e8182533efcd50552046ae13b1"
-  integrity sha512-lWCEDHw767Q6b0BaHfcd04Im4B31eOt33hOg4xY9d7lqOamPP0tXG/Ch7fgZh7gStYBowBktuae73ZjalfJNlQ==
+"@nomicfoundation/edr@0.12.0-next.21":
+  version "0.12.0-next.21"
+  resolved "https://registry.yarnpkg.com/@nomicfoundation/edr/-/edr-0.12.0-next.21.tgz#2ef1cdf972b8d8dd8f2643b4e317bb5309378c41"
+  integrity sha512-j4DXqk/b2T1DK3L/YOZtTjwXqr/as4n+eKulu3KGVxyzOv2plZqTv9WpepQSejc0298tk/DBdMVwqzU3sd8CAA==
   dependencies:
-    "@nomicfoundation/edr-darwin-arm64" "0.12.0-next.19"
-    "@nomicfoundation/edr-darwin-x64" "0.12.0-next.19"
-    "@nomicfoundation/edr-linux-arm64-gnu" "0.12.0-next.19"
-    "@nomicfoundation/edr-linux-arm64-musl" "0.12.0-next.19"
-    "@nomicfoundation/edr-linux-x64-gnu" "0.12.0-next.19"
-    "@nomicfoundation/edr-linux-x64-musl" "0.12.0-next.19"
-    "@nomicfoundation/edr-win32-x64-msvc" "0.12.0-next.19"
+    "@nomicfoundation/edr-darwin-arm64" "0.12.0-next.21"
+    "@nomicfoundation/edr-darwin-x64" "0.12.0-next.21"
+    "@nomicfoundation/edr-linux-arm64-gnu" "0.12.0-next.21"
+    "@nomicfoundation/edr-linux-arm64-musl" "0.12.0-next.21"
+    "@nomicfoundation/edr-linux-x64-gnu" "0.12.0-next.21"
+    "@nomicfoundation/edr-linux-x64-musl" "0.12.0-next.21"
+    "@nomicfoundation/edr-win32-x64-msvc" "0.12.0-next.21"
 
 "@nomicfoundation/hardhat-errors@^3.0.0":
   version "3.0.2"
@@ -3093,12 +3093,12 @@ graphemer@^1.4.0:
   resolved "https://registry.yarnpkg.com/graphemer/-/graphemer-1.4.0.tgz#fb2f1d55e0e3a1849aeffc90c4fa0dd53a0e66c6"
   integrity sha512-EtKwoO6kxCL9WO5xipiHTZlSzBm7WLT627TqC/uVRd0HKmq8NXyebnNYxDoBi7wt8eTWrUrKXCOVaFq9x1kgag==
 
-hardhat@3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/hardhat/-/hardhat-3.1.1.tgz#ab7418825a67b4665fbb2568ee4d3a6ca89fbb7c"
-  integrity sha512-AioI30f09ssJ5o4lTHMHsPaBeObTnm3p7JpZG4e4SPKqGW+wEzrnxILiO/gUcZul+pR/DEguKSauapWBC+R/TA==
+hardhat@3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/hardhat/-/hardhat-3.1.2.tgz#1a52eedab2f2ef9fb03d7b44069e0fb2d446dee9"
+  integrity sha512-ULD5dQEU2/eXh+D/bfgD7j0kV0ynFAGh+F77VNLsQ7MAMTbFEAJLchyubzzeNBTh4n2pu0CG3juECg9s9mjTuA==
   dependencies:
-    "@nomicfoundation/edr" "0.12.0-next.19"
+    "@nomicfoundation/edr" "0.12.0-next.21"
     "@nomicfoundation/hardhat-errors" "^3.0.6"
     "@nomicfoundation/hardhat-utils" "^3.0.5"
     "@nomicfoundation/hardhat-zod-utils" "^3.0.1"
